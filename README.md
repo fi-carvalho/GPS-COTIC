@@ -1,1 +1,1 @@
-# GPJ-COTIC
+# GPS-COTIC
